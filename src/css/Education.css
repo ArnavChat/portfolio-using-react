@@ -1,0 +1,42 @@
+#education{
+    text-align: center;
+    display: flex;
+    padding: 10% 15%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.even-left-container{
+    background-color: #a6a6a6;
+    flex: 2;
+    padding: 2%;
+    text-align: left;
+    line-height: 1.5;
+    border-radius: 10% 0 0 10%;
+}
+
+.even-left-container h1{
+    font-size: 3rem;
+    font-weight: bolder;
+    line-height: 1;
+}
+
+.even-left-container li{
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: black;
+}
+
+.even-left-container a{
+    text-decoration: none;
+}
+
+.even-right-container{
+    flex: 2;
+}
+
+
+.VIT-img{
+    width: 100%;
+    height: 100%;
+    border-radius: 0 10% 10% 0;
+}
